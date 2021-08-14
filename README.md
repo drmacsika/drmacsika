@@ -11,21 +11,8 @@
 <a href="https://instagram.com/drmacsika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drmacsika" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drmacsika&show_icons=true&locale=en&layout=compact" alt="drmacsika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drmacsika&show_icons=true&locale=en" alt="drmacsika" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drmacsika&" alt="drmacsika" /></p>
 
 
-
-
-
-- 👋 Hi,
-- 🌱 I’m currently learning anything needed to know so I don't get to the point where I don't know what I'm supposed to know.
-- 📫 How to reach me - @drmacsika on instagram.
-
-<!---
-drmacsika/drmacsika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
