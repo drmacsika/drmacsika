@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, Nsikak Imoh here.</h1>
-<h3 align="center">I am a full-stack software engineer actively coding and keeping up with the latest in tech for over 6 years! </h3>
+<h3 align="center">I am a passionate full-stack software engineer actively coding and keeping up with the latest in tech for over 6 years! </h3>
 <h3 align="center">Currently learning anything needed to know so I don't get to the point where I don't know what I'm supposed to know, you follow? 🤔</h3>
 <h3 align="center">Open source advocate. A lot of my projects, collaborations, and activities can be found on Gitlab.</h3>
 <h3 align="center">Always remember to hydrate, smile, and be kind! 🥺</h3>
