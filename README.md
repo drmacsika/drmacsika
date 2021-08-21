@@ -11,10 +11,6 @@
 <a href="https://instagram.com/drmacsika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drmacsika" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drmacsika&show_icons=true&locale=en" alt="drmacsika" /></p>
-
-
 ![Nsikak Imoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmacsika&count_private=true&show_icons=true)
 
 
