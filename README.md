@@ -14,9 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drmacsika&show_icons=true&locale=en" alt="drmacsika" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Nsikak Imoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmacsika&count_private=true)
 
 
