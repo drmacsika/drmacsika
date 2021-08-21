@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate full-stack software engineer actively coding and keeping up with the latest in tech for over 6 years! </h3>
 <h3 align="center">Currently learning anything needed to know so I don't get to the point where I don't know what I'm supposed to know, you follow? 🤔</h3>
 <h3 align="center">Open source advocate. A lot of my projects, collaborations, and activities can be found on Gitlab.</h3>
-<h3 align="center">Always remember to hydrate, smile, and be kind! 🥺</h3>
+<h3 align="center">Always remember to hydrate, smile, and be kind! Hey 🥺</h3>
 <h3 align="center">Thank you. ❤️</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -13,7 +13,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drmacsika&show_icons=true&locale=en" alt="drmacsika" /></p>
-<p>![Nsikak's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmacsika&count_private=true)</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
