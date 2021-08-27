@@ -1,5 +1,7 @@
 <h1 align="left">Hey there 👋, Nsikak Imoh here.</h1>
-<h3 align="left">I am a passionate full-stack software engineer actively coding and keeping up with the latest in tech for over 6 years! </h3>
+<p align="left">I am a passionate Full-Stack Software Engineer. Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</p>
+<p align="left">I have been actively building software, learning, reasearching, and keeping up with the latest in tech for over 6 years! </p>
+
 <h3 align="left">Currently learning anything needed to know so I don't get to the point where I don't know what I'm supposed to know, you follow? 🤔</h3>
 <h3 align="left">Open source advocate. A lot of my projects, collaborations, and activities can be found on Gitlab.</h3>
 <h3 align="left">Always remember to hydrate, smile, and be kind! 🥺</h3>
