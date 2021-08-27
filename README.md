@@ -1,8 +1,7 @@
 <h1 align="left">Hey there 👋, Nsikak Imoh here.</h1>
-<h3 align="left">I am a passionate Full-Stack Software Engineer.</h3>
-<h3 align="left">Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</h3>
-<p align="left">I have been actively building software, learning, reasearching, and keeping up with the latest in tech for over 6 years! </p>
-<p align="left">I am also an A.I researcher with a keen interest in building and maintaining self-running software that facilitates artificial intelligence initiative using machine & deep learning.</p>
+<h3 align="left">I am a passionate Full-Stack Software Engineer. Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</h3>
+<h3 align="left">I have been actively building software, learning, reasearching, and keeping up with the latest in tech for over 6 years! </h3>
+<h3 align="left">I am also an A.I researcher with a keen interest in building and maintaining self-running software that facilitates artificial intelligence initiative using machine & deep learning.</h3>
 
 <p align="left">I am currently learning GO, Web Assembly, and steathly learning and working my way towards becoming a Full-Stack Machine Learning Engineer.</p>
 <p align="left">A lot of my enterprise projects, collaborations, and activities can be found on Gitlab.</p>
