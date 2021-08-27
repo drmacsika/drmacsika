@@ -1,5 +1,6 @@
 <h1 align="left">Hey there 👋, Nsikak Imoh here.</h1>
-<p align="left">I am a passionate Full-Stack Software Engineer. Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</p>
+<h4 align="left">I am a passionate Full-Stack Software Engineer.</h4>
+<h4 align="left">Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</h4>
 <p align="left">I have been actively building software, learning, reasearching, and keeping up with the latest in tech for over 6 years! </p>
 <p align="left">I am also an A.I researcher with a keen interest in building and maintaining self-running software that facilitates artificial intelligence initiative using machine & deep learning.</p>
 
