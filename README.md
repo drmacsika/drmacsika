@@ -1,12 +1,11 @@
 <h1 align="left">Hey there 👋, Nsikak Imoh here.</h1>
-<h3 align="left">I am a passionate Full-Stack Software Engineer. Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</h3>
-<h3 align="left">Actively building software, learning, reasearching, and keeping up with the latest in tech for over 6 years! </h3>
-<h3 align="left">I am also an A.I. researcher with a keen interest in building and maintaining self-running software that facilitates artificial intelligence initiative using machine & deep learning.</h3>
-
-<h3 align="left">Currently learning GO, Web Assembly, and steathly learning and working my way towards becoming a Full-Stack Machine Learning Engineer.</h3>
-<h3 align="left">A lot of my enterprise projects, collaborations, and activities can be found on Gitlab.</h3>
-<h3 align="left">Always remember to hydrate, smile, and be kind! 🥺</h3>
-<h3 align="left">Thank you. ❤️</h3>
+<p align="left">I am a passionate Full-Stack Software Engineer. Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</h3>
+<p align="left">Actively building software, learning, reasearching, and keeping up with the latest in tech for over 6 years! </p>
+<p align="left">I am also an A.I. researcher with a keen interest in building and maintaining self-running software that facilitates artificial intelligence initiative using machine & deep learning.</p>
+<p align="left">Currently learning GO, Web Assembly, and working my way towards becoming a Full-Stack Machine Learning Engineer.</p>
+<p align="left">A lot of my enterprise projects, collaborations, and activities can be found on Gitlab.</p>
+<p align="left">Always remember to hydrate, smile, and be kind! 🥺</p>
+<p align="left">Thank you. ❤️</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
