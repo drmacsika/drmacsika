@@ -5,7 +5,7 @@
 <p align="left">Currently learning GO, Web Assembly, and working my way towards becoming a Full-Stack Machine Learning Engineer.</p>
 <p align="left">A lot of my enterprise projects, collaborations, and activities can be found on Gitlab.</p>
 <p align="left">Always remember to hydrate, smile, and be kind! 🥺</p>
-<p align="center">Thank you. ❤️</p>
+<p align="left">Thank you. ❤️</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
