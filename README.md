@@ -1,8 +1,15 @@
 <h1 align="center">Hey there 👋, Nsikak here.</h1>
-<p align="left">I am a passionate Full-Stack Software Engineer. Skilled and experienced in building front-end & back-end solutions, microservices, and serverless cloud architecture.</h3>
-<p align="left">Actively building software, learning, reasearching, and keeping up with the latest in tech for over 6 years! </p>
-<p align="left">I am also an A.I. researcher with a keen interest in building and maintaining self-running software that facilitates artificial intelligence initiative using machine & deep learning.</p>
-<p align="left">A lot of my enterprise projects, collaborations, and activities can be found on Gitlab.</p>
+<p align="left">I am a tech-savvy Senior Backend Engineer with over six years in the software development arena.</p>
+
+<p align="left">I am also a fast learner with extensive hands-on experience to handle any part of the development process and complete tasks both independently and collaboratively. Naturally hard-working, I ensure to bring my best to take any project to the next level.</p>
+
+<p align="left">I have already been granted early leadership roles as a lead developer and engineering manager guiding the work of other software developers and technical experts to ensure projects were developed correctly, on time, and within a given budget.</p>
+
+<p align="left">I was awarded the best student of my cohort throughout my higher education. Not only that, but I also possess great soft skills, speak two foreign languages, and have a native level of English.</p>
+
+<p align="left">Overall, I find the ability to combine my creative and fast-learning abilities with leadership and team development incredibly satisfying, and I aim to build upon my knowledge and experiences, ensuring to grow and develop my skill sets through continuous learning and keeping up with technological trends.</p>
+
+
 <p align="left">Always remember to hydrate, smile, and be kind!</p>
 <p align="left">- With love.❤️</p>
 
