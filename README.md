@@ -3,8 +3,6 @@ I am a tech-savvy Senior Backend Engineer with over six years in the software de
 
 I am also a fast learner with extensive hands-on experience to handle any part of the development process and complete tasks both independently and collaboratively. Naturally hard-working, I ensure to bring my best to take any project to the next level.
 
-I have already been granted early leadership roles as a lead developer and engineering manager guiding the work of other software developers and technical experts to ensure projects were developed correctly, on time, and within a given budget.
-
 Overall, I find the ability to combine my creative and fast-learning abilities with leadership and team development incredibly satisfying, and I aim to build upon my knowledge and experiences, ensuring to grow and develop my skill sets through continuous learning and keeping up with technological trends.
 
 ## 🌐Socials
