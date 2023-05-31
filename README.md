@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a tech-savvy Senior Backend Engineer with over six years in the software development arena.
+I am a tech-savvy Senior Backend Engineer with over eight years in the software development arena.
 
 I am also a fast learner with extensive hands-on experience to handle any part of the development process and complete tasks both independently and collaboratively. Naturally hard-working, I ensure to bring my best to take any project to the next level.
 
