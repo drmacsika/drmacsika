@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a tech-savvy Senior Backend Engineer with over eight years in the software development arena.
+I am a tech-savvy Senior Backend Engineer with over ten years in the software development arena.
 
 I am also a fast learner with extensive hands-on experience to handle any part of the development process and complete tasks both independently and collaboratively. Naturally hard-working, I ensure to bring my best to take any project to the next level.
 
@@ -20,9 +20,6 @@ Overall, I find the ability to combine my creative and fast-learning abilities w
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=drmacsika&icon=0&color=0)](https://visitcount.itsvg.in)
